@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-div{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+    padding: 20px;
+}
+
+.submit-button{
+    width: 20rem;
+    align-self: center;
+}
